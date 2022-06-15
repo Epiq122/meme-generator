@@ -1,3 +1,5 @@
+import memeData from './memesData';
+
 import './App.css';
 import Header from './components/Header/Header';
 import Meme from './components/Meme/Meme';
